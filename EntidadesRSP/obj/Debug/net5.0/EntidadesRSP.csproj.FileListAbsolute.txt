@@ -1,0 +1,11 @@
+C:\Users\Administrador\Desktop\Prueba\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\Prueba\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\Prueba\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\Prueba\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Prueba\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\bin\Debug\net5.0\EntidadesRSP.deps.json
+C:\Users\Administrador\Desktop\Prueba\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\bin\Debug\net5.0\EntidadesRSP.dll
+C:\Users\Administrador\Desktop\Prueba\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\bin\Debug\net5.0\ref\EntidadesRSP.dll
+C:\Users\Administrador\Desktop\Prueba\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\bin\Debug\net5.0\EntidadesRSP.pdb
+C:\Users\Administrador\Desktop\Prueba\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.dll
+C:\Users\Administrador\Desktop\Prueba\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\ref\EntidadesRSP.dll
+C:\Users\Administrador\Desktop\Prueba\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.pdb
